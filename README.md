@@ -2,7 +2,7 @@
 ### Data-Driven Insights for Supply Chain Optimization
 
 ## 📌 Project Overview
-This project performs a comprehensive analysis of 100k+ e-commerce orders to identify the impact of logistics on business growth. As a Logistics Engineer, I developed this analysis to pinpoint regional delivery bottlenecks and their direct correlation with customer review scores.
+This project delivers a data-driven analysis of 100k+ e-commerce orders to evaluate supply chain efficiency and its direct impact on business growth. As a Logistics Engineer, I developed this analysis to pinpoint regional delivery bottlenecks and quantify their direct correlation with customer satisfaction (CSAT).
 
 ## 🛠️ Tech Stack
 * Language: Python (Pandas, NumPy)
@@ -25,8 +25,8 @@ Using Linear Regression, I proved a negative correlation: as delivery time incre
 ![Correlation Analysis](images/5012655412498598797.jpg)
 
 ## 🚀 Strategic Recommendations
-* Regional Distribution Centers: Implementing local hubs in high-latency zones to reduce Lead Time by 40%.
-* Predictive CSAT Monitoring: Automated alerts for orders exceeding the 12-day delivery threshold to proactively manage customer expectations.
+* Infrastructure Strategy: Implementing local hubs in high-latency zones to reduce Lead Time by 40%.
+* Proactive Operations: Automated alerts for orders exceeding the 12-day delivery threshold to proactively manage customer expectations.
 
 ## 📂 Repository Structure
 * Analisis_Logistica.ipynb: Full Python/SQL code and data processing.
