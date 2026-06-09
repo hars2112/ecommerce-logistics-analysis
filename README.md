@@ -5,10 +5,10 @@
 This project delivers a data-driven analysis of 100k+ e-commerce orders to evaluate supply chain efficiency and its direct impact on business growth. As a Logistics Engineer, I developed this analysis to pinpoint regional delivery bottlenecks and quantify their direct correlation with customer satisfaction (CSAT).
 
 ## 🛠️ Tech Stack
-* Language: Python (Pandas, NumPy)
-* Database: SQLite (SQL for data modeling)
-* Visualization: Seaborn, Matplotlib
-* Environment: Jupyter Notebook on Linux (Lubuntu)
+* **Language:** Python (Pandas, NumPy)
+* **Database:** SQLite (SQL for data modeling)
+* **Visualization:** Seaborn, Matplotlib
+* **Environment:** Jupyter Notebook on Linux (Lubuntu)
 
 ## 📊 Key Insights & Results
 
